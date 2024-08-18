@@ -1,10 +1,6 @@
 # Large-Scale Selfie Video Dataset (L-SVD): A Benchmark for Emotion Recognition
 
-### $${\color{red}\text{Our dataset is now facing a severe validation problem needed to be solved.}}$$ $${\color{red}\text{We will re-open access after the dataset validation}}$$
-
-### $${\color{blue}\text{Sorry for the inconvenience}}$$
-
-### Our HuggingFace file system encourtered some issues. Please use GoogleDrive to retrieve the source files. 
+### Please use GoogleDrive to retrieve the source files for the best experience [LSVD-DATASET](https://drive.google.com/drive/folders/1alXjtSisiDHY3akoReIU6V2AzbvW0rau?usp=sharing). 
 
 
 
