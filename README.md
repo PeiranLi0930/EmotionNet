@@ -35,7 +35,7 @@ Join us in advancing the fields of Machine Learning and Deep Learning! After sub
 
 Our dataset, L-SVD, is shared via Google Drive, enabling easy access and collaboration. The dataset is released in batches, ensuring ongoing updates and expansions.
 
-To access L-SVD, please visit [U-SVD](https://drive.google.com/drive/folders/1alXjtSisiDHY3akoReIU6V2AzbvW0rau?usp=sharing) and submit a request including your Contact Information and Affiliations. This process ensures a collaborative and secure environment for all users.
+To access L-SVD, please visit [L-SVD](https://drive.google.com/drive/folders/1alXjtSisiDHY3akoReIU6V2AzbvW0rau?usp=sharing) and submit a request including your Contact Information and Affiliations. This process ensures a collaborative and secure environment for all users.
 
 Thank you for your interest in L-SVD. Together, we can push the boundaries of emotion recognition research and development.
 
